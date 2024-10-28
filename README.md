@@ -6,7 +6,9 @@ A Junior Electrical Engineering major with a minor in Computer Science and Mathe
 
 - **Computer Science I (Python)**
 - **Computer Science II (C++)**
+- **Computer Science III (Python)**
 - **Engineering Programming and Applications (Python)**
+- **Large Scale / Object-Oriented Programming (Java)**
 
 ## Programs and Experiences
 
