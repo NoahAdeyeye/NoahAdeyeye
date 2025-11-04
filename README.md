@@ -1,6 +1,6 @@
 # I'm Oluwaseun Noah Adeyeye 👋
 
-A Junior Electrical Engineering major with a minor in Computer Science and Mathematics at Howard University. I have a passion for technology and enjoy creating projects using coding.
+A Senior Electrical Engineering major with a minor in Computer Science and Mathematics at Howard University. I have a passion for technology and enjoy creating projects using coding.
 
 ## Computer Science Experience
 
